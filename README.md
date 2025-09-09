@@ -48,6 +48,7 @@
 
 ---
 
+
 ### 🔗 Connect With Me  
 ![](https://komarev.com/ghpvc/?username=yougshree&color=blue)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yougshreesahaurmy)  
@@ -60,5 +61,15 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight)  
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/z15YBG8v3xWfy37AP5/giphy.gif" alt="Space Animation" style="width: 1000%; height: auto; object-fit: cover;">
+</div>
+
+
+
+
+
+
 
 
