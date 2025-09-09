@@ -14,3 +14,5 @@ hey there👋, I'm Yougshree. Welcome to my Github Profile.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight)  
 
 ---
+### 🎮 Play My Space Invaders Game  
+[![Play](https://img.shields.io/badge/Play%20Game-Space%20Invaders-green)](https://yougshree.github.io/space-invaders/)
