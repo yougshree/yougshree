@@ -66,11 +66,14 @@
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=yougshree&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+-->
+
 
 ## 🔗 Connect With Me
 
@@ -100,16 +103,4 @@
   ---
 </div>
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+nice+day!;Keep+coding!;See+you+again!✨" alt="Animated thanks message" />
-  <br>
-  
-  <!-- Random motivational quote -->
-  ![Random Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nightowl)
-
-  <!-- Footer wave -->
-  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer)
-
-</div>
 
