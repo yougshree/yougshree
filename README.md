@@ -60,16 +60,15 @@
     <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"/>
   </a>
 </p>
+
 ---
+
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
-
-
-
 
 
 
