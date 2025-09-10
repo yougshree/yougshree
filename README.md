@@ -1,6 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Yougshree</h1>  
-<p align="center">Welcome to my GitHub Profile 🚀</p>  
 
+<div style="display: flex; justify-content: center;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7F7&width=435&lines=Welcome+to+my+GitHub!" 
+    alt="Typing Animation" 
+    style="display: block;"
+  />
+</div>
+  
 ---
 
 ### 🌱 I’m currently learning  
@@ -69,6 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
+
+---
+![Motivational Quote](https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=80&section=footer&text=Believe+you+can+and+you’re+halfway+there.+–+Theodore+Roosevelt&fontColor=fff&fontSize=20&animation=fadeIn)
 
 
 
