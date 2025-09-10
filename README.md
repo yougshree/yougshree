@@ -1,86 +1,103 @@
-<h1 align="center">Hey there 👋, I'm Yougshree</h1>  
+<h1 align="center">Hey there 👋, I'm Yougshree</h1>
+<h3 align="center">A passionate developer exploring the world of AI and computer vision</h3>
 
-<div style="display: flex; justify-content: center;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7F7&width=435&lines=Welcome+to+my+GitHub!" 
-    alt="Typing Animation" 
-    style="display: block;"
-  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+AI+and+Computer+Vision;Learning+something+new+everyday" alt="Typing Animation" />
 </div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yougshree&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+</div>
+
+---
+
+## 🌟 About Me
+
+- 🔭 I'm currently working on **Deep Learning model deployment projects**
+- 🌱 Learning **YOLOv8, Streamlit, and OpenGL graphics**
+- 👯 Looking to collaborate on **computer vision and AI projects** 🤝
+- 💬 Ask me about **C++, Python, or database optimization**
+- ⚡ Fun fact: **I have sweet teeth 🍫 (yes, not just one!). Sometimes my best debugging fuel is chocolate 😅**
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td>
+      <h4>Programming Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+      </p>
+    </td>
+    <td>
+      <h4>Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+      </p>
+    </td>
+    <td>
+      <h4>Tools & Technologies</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
   
----
+  ![](https://github-readme-stats.vercel.app/api?username=yougshree&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=nightowl&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌱 I’m currently learning  
-- Deep Learning model deployment (YOLOv8, Streamlit)  
-- Advanced SQL and Database Optimization  
-- OpenGL graphics and computer vision applications  
-
----
-
-### ⚡ Fun Fact  
-- I have sweet teeth 🍫 (yes, not just one sweet tooth!). Sometimes my best debugging fuel is chocolate 😅  
+</div>
 
 ---
 
-### 💻 Languages and Tools  
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-</p>  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=yougshree&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-### 🔗 Connect With Me  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yougshree&color=blue" alt="Profile views"/>
+
+## 🔗 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yougshreesahaurmy">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Yougshree/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:yougshreesahaurmy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yougshree">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
-
----
-![Motivational Quote](https://capsule-render.vercel.app/api?type=rect&color=0:00F260,100:0575E6&height=80&section=footer&text=Believe+you+can+and+you’re+halfway+there.+–+Theodore+Roosevelt&fontColor=fff&fontSize=20&animation=fadeIn)
-
-
-
-
-
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+nice+day!;Keep+coding!;See+you+again!✨" alt="Animated thanks message" />
+  <br>
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="400">
+  
+</div>
