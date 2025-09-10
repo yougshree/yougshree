@@ -5,8 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+AI+and+Computer+Vision;Learning+something+new+everyday" alt="Typing Animation" />
 </div>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=yougshree&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+<div>
+    <div align="right" style="display: inline-block; float: right;">
+    <img src="https://komarev.com/ghpvc/?username=yougshree&color=blueviolet&style=for-the-badge&label=PROFILE_VIEWS" alt="Visitor Count" />
+  </div>
+  <div align="left" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Status-Online-7CFC00?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/LAST_ACTIVE-TODAY-7CFC00?style=for-the-badge" alt="Last Active" />
+  </div>
 </div>
 
 ---
@@ -66,15 +72,6 @@
 
 ---
 
-<!--
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yougshree&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
----
--->
-
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -84,7 +81,7 @@
   <a href="https://leetcode.com/u/Yougshree/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:yougshreesahaurmy@gmail.com">
+  <a href="mailto=yougshreesahaurmy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/yougshree">
@@ -100,7 +97,4 @@
   <br>
   
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer)
-  ---
 </div>
-
-
