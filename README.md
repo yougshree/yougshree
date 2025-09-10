@@ -47,24 +47,26 @@
 </p>  
 
 ---
-
-
 ### 🔗 Connect With Me  
-![](https://komarev.com/ghpvc/?username=yougshree&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yougshreesahaurmy)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/Yougshree/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yougshreesahaurmy@gmail.com)  
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yougshree&color=blue" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/yougshreesahaurmy">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Yougshree/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow" alt="LeetCode"/>
+  </a>
+  <a href="mailto:yougshreesahaurmy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"/>
+  </a>
+</p>
 ---
-
-### 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight)  
----
-<div align="center">
-  <img src="https://media.giphy.com/media/z15YBG8v3xWfy37AP5/giphy.gif" alt="Space Animation" style="width: 1000%; height: auto; object-fit: cover;">
-</div>
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yougshree&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yougshree&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yougshree&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
 
 
 
