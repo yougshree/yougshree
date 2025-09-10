@@ -15,9 +15,7 @@
 
 - 🔭 I'm currently working on **Deep Learning model deployment projects**
 - 🌱 Learning **YOLOv8, Streamlit, and OpenGL graphics**
-- 👯 Looking to collaborate on **computer vision and AI projects** 🤝
-- 💬 Ask me about **C++, Python, or database optimization**
-- ⚡ Fun fact: **I have sweet teeth 🍫 (yes, not just one!). Sometimes my best debugging fuel is chocolate 😅**
+- ⚡ Fun fact: **I have sweet teeth 🍫 sometimes my best debugging fuel is chocolate 😅**
 
 ---
 
