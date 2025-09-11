@@ -10,8 +10,8 @@
     <img src="https://komarev.com/ghpvc/?username=yougshree&color=blueviolet&style=for-the-badge&label=PROFILE_VIEWS" alt="Visitor Count" />
   </div>
   <div align="left" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Status-Online-7CFC00?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/LAST_ACTIVE-TODAY-7CFC00?style=for-the-badge" alt="Last Active" />
+    <img src="https://img.shields.io/github/last-commit/yougshree/yougshree?label=Last%20Commit&style=for-the-badge&color=7CFC00&logo=github" alt="Last Commit" />
+    <img src="https://img.shields.io/github/commit-activity/m/yougshree/yougshree?label=Monthly%20Activity&style=for-the-badge&color=7CFC00" alt="Monthly Activity" />
   </div>
 </div>
 
@@ -40,11 +40,12 @@
       </p>
     </td>
     <td>
-      <h4>Databases</h4>
+      <h4>AI & ML Frameworks</h4>
       <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
       </p>
     </td>
     <td>
@@ -53,6 +54,18 @@
         <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Matlab" />
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <h4>Databases</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
   </tr>
@@ -70,6 +83,20 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yougshree&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=61dafb" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=yougshree&theme=onedark&no-frame=true&row=1&column=7)
+
+</div>
+
 ---
 
 ## 🔗 Connect With Me
@@ -81,13 +108,31 @@
   <a href="https://leetcode.com/u/Yougshree/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto=yougshreesahaurmy@gmail.com">
+  <a href="mailto:yougshreesahaurmy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/yougshree">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.kaggle.com/yougshree">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  
+  <a href="https://github.com/yougshree/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yougshree&repo=yougshree&theme=nightowl" />
+  </a>
+  <a href="https://github.com/yougshree/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yougshree&repo=yougshree&theme=nightowl" />
+  </a>
+  
+</div>
 
 ---
 
