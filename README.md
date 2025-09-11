@@ -11,7 +11,7 @@
   </div>
   <div align="left" style="display: inline-block;">
     <img src="https://img.shields.io/github/last-commit/yougshree/yougshree?label=Last%20Commit&style=for-the-badge&color=7CFC00&logo=github" alt="Last Commit" />
-    <img src="https://img.shields.io/github/commit-activity/m/yougshree/yougshree?label=Monthly%20Activity&style=for-the-badge&color=7CFC00" alt="Monthly Activity" />
+  <!--  <img src="https://img.shields.io/github/commit-activity/m/yougshree/yougshree?label=Monthly%20Activity&style=for-the-badge&color=7CFC00" alt="Monthly Activity" />-->
   </div>
 </div>
 
