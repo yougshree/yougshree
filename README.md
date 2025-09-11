@@ -83,21 +83,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yougshree&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=61dafb" alt="Activity Graph" />
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=yougshree&theme=onedark&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 🔗 Connect With Me
 
@@ -114,27 +101,13 @@
   <a href="https://github.com/yougshree">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.kaggle.com/yougshree">
+  <a href="https://www.kaggle.com/yougshreesahaurmy">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  
-  <a href="https://github.com/yougshree/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yougshree&repo=yougshree&theme=nightowl" />
-  </a>
-  <a href="https://github.com/yougshree/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yougshree&repo=yougshree&theme=nightowl" />
-  </a>
-  
-</div>
-
----
 
 <div align="center">
   
