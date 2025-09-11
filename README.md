@@ -6,7 +6,9 @@
 </div>
 
 <div>
-
+    <div align="right" style="display: inline-block; float: right;">
+    <img src="https://komarev.com/ghpvc/?username=yougshree&color=blueviolet&style=for-the-badge&label=PROFILE_VIEWS" alt="Visitor Count" />
+  </div>
   <div align="left" style="display: inline-block;">
     <img src="https://img.shields.io/github/last-commit/yougshree/yougshree?label=Last%20Commit&style=for-the-badge&color=7CFC00&logo=github" alt="Last Commit" />
   <!--  <img src="https://img.shields.io/github/commit-activity/m/yougshree/yougshree?label=Monthly%20Activity&style=for-the-badge&color=7CFC00" alt="Monthly Activity" />-->
